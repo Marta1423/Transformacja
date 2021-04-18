@@ -5,5 +5,5 @@ Po wczytaniu obrazu (plik: zdjecie1.jpg) podzielilam go na 3 części, które od
 Na koniec program tworzy nowy plik (plik: zdjecie2.jpg), które jest efektem jego działania.
 
 2. Drugi program to mieszanie obrazów.
-Po wczytaniu (pliki: zdj1.jpg oraz zdj2.jpg) łącze ze sobą zdjęcią o tych samych wymiariach za pomocą przezroczystosci. 
+Po wczytaniu plików (pliki: zdj1.jpg oraz zdj2.jpg) łącze ze sobą zdjęcia o tych samych wymiariach za pomocą przezroczystosci. 
 Główną klasą jest: miesz(). Pozostałe klasy to algorytmy oraz Mieszanie, które wczytują zdj1.jpg oraz zdj2.jpg i tworzą nowy plik: efekt.jpg. .
