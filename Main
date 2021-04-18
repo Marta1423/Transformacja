@@ -1,0 +1,9 @@
+package mieszanie;
+
+import java.util.Scanner;
+
+public class miesz {
+
+    public static void main(String[] args) throws Exception{
+
+        new Mieszanie();
